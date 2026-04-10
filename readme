@@ -1,0 +1,41 @@
+# Task Manager Project
+
+A full-stack task management application built using the MERN stack (MongoDB, Express, React, Node.js).
+
+## Features
+
+- Create, update, and delete tasks
+- Mark tasks as completed or pending
+- Separate frontend and backend architecture
+- REST API-based backend communication
+- Basic responsive user interface
+
+## Tech Stack
+
+- Frontend: React.js
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Version Control: Git and GitHub
+
+## Project Structure
+
+client - Frontend application  
+server - Backend application  
+
+## How to Run the Project
+
+### Backend
+
+cd server  
+npm install  
+npm start  
+
+### Frontend
+
+cd client  
+npm install  
+npm start  
+
+## Author
+
+Methukumelli Githika
